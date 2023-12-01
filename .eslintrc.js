@@ -27,6 +27,7 @@ module.exports = {
             {
                 allowTemplateLiterals: true
             }
-        ]
+        ],
+        "react/prop-types": 1 //поставил и заработало!!!
     }
 };
